@@ -1,5 +1,5 @@
 # FP
-games tic-tac-toe and nine men's morris in python (20/21)
+Games tic-tac-toe and nine men's morris in python (20/21)
 
 
 Tic-tac-toe : project 1
